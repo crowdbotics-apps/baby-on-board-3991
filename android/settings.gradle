@@ -1,0 +1,3 @@
+rootProject.name = 'baby_on_board_3991'
+
+include ':app'
